@@ -25,3 +25,13 @@ Video title, channel name, and publishing time
 Engagement metrics such as views, likes, dislikes, and comments
 Tags and descriptions for video content
 A category mapping file to classify videos into relevant genres
+
+## Architecture Diagram
+
+![image](https://github.com/user-attachments/assets/f035ae78-26a1-4cd0-98fa-016028bb00e0)
+
+## Dashboard 
+
+![Dashboard](https://github.com/user-attachments/assets/0e825c96-b41f-4fee-ab24-95bb9190205a)
+
+
